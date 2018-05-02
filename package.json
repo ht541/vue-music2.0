@@ -1,7 +1,7 @@
 {
   "name": "vue-music",
   "version": "1.0.0",
-  "description": "音乐播放器",
+  "description": "Vue2.0构建的音乐webapp",
   "author": "ht",
   "private": true,
   "scripts": {
